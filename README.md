@@ -57,7 +57,7 @@ This repository contains implementations of multiple recommendation systems for 
 
 #### Running the Recommendation Systems:
 
-Each recommendation system is contained in one colab notebook **movies_recommendation_system.ipynb**.
+Each recommendation system is contained in one colab notebook **Movies_Recommendation_System.ipynb**.
 
 Open and execute the notebook to explore each recommendation system.
 
